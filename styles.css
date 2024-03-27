@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.holder{
+	width: auto;
+	height:auto;
+}
+.item{
+	align-items:center;
+}

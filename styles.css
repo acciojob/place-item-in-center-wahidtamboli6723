@@ -1,6 +1,8 @@
 
 /* Your CSS Code here. */
 .holder{
+	display:flex;
+	align-items: center;
 	width: auto;
 	height:auto;
 }
